@@ -1,5 +1,6 @@
 # RAYATV
 
+
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10,13 +11,11 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv1
 
-
 #EXTINF:-1 tvg-id="tv2" ch-number="102" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv2.png", 102 TV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv2
-
 
 #EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD
 #KODIPROP:inputstream=inputstream.adaptive
